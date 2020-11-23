@@ -17,6 +17,6 @@ min-height: 300px;
 }
 
 
-.img-responsive{
-  width: 10% ;
+.start-boot .img-responsive{
+  width: 200px; ;
 }
