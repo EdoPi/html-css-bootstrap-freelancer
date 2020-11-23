@@ -1,0 +1,22 @@
+.navbar-personal{
+  height: 80px;
+  background-color: #2C3E50;
+
+}
+
+[class*="col"]{
+min-height: 300px;
+
+
+
+}
+
+.bg-color-green{
+   background-color: #1ABC9C;
+   color: white;
+}
+
+
+.img-responsive{
+  width: 10% ;
+}
